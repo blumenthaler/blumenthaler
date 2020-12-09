@@ -4,7 +4,7 @@ Hello! 👋
 
 My name is Alex Blumenthaler. I am a Web Developer (and Jazz Bassist!)
 
-Check out my most recent project [here](https://github.com/blumenthaler/Piano-Chords), a tool for learning Piano Chords built with a Rails API and Vanilla JavaScript.
+Check out my most recent project [here](https://github.com/blumenthaler/Piano-Chords), a webapp for learning piano chords, built with a Rails API and Vanilla JavaScript.
 
 - 🔭 I’m currently working on: Portfolio Website
 - 🌱 Currently learning: React
