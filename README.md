@@ -9,5 +9,5 @@ Check out my most recent project [here](https://github.com/blumenthaler/Piano-Ch
 - 🔭 Currently working on: React/Redux project - Forum for Bartenders/Cocktail Enthusiasts
 - 🌱 Currently learning: React/Redux
 - 🤔 Looking for help with: Deployment, Cloud (Azure)
-- 📫 Twitter: @ABlumenthaler
+- 📫 Twitter: [@ABlumenthaler](https://twitter.com/ABlumenthaler)
 - 🤝 LinkedIn: [Alex Blumenthaler](https://www.linkedin.com/in/blumenthaler/)
