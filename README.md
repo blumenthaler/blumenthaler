@@ -10,3 +10,4 @@ Check out my most recent project [here](https://github.com/blumenthaler/Piano-Ch
 - 🌱 Currently learning: React/Redux
 - 🤔 Looking for help with: Deployment, Cloud (Azure)
 - 📫 Twitter: @ABlumenthaler
+- 🤝 LinkedIn: [Alex Blumenthaler](https://www.linkedin.com/in/blumenthaler/)
